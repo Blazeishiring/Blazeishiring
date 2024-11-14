@@ -4,7 +4,7 @@
 - 💞️ I'm interested in collaborating on various AI-related projects, particularly those focusing on Candidate Attraction, Employer Branding, and Diversity, Equity, and Inclusion (DEI) applications
 - 📫 How to reach me: LinkedIn 
 - 😄 Pronouns: he/him/human
-- ⚡ Fun fact: I often find myself unable to recall the lyrics of entire songs 
+- ⚡ Fun fact: I've never been able to recall the lyrics of an entire songs 
 
 <!---
 Blazeishiring/Blazeishiring is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
